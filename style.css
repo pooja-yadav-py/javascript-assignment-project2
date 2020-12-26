@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+body{
+	margin: 0px;
+	font-family: 'Lora', serif;
+}
+#blog-header{
+	border: 2px solid #00000017;
+	background-color: #ffffb2;
+	color: #1a0d0dc9;
+	padding: 12px 2px;
+	margin-left: 31px;
+	margin-right: 31px;
+}
+.blog-title{
+	text-align: center;
+}
+#blog-table {
+	margin: 20px 30px;
+	border: none;
+}
+#blog-table th{
+	padding: 10px;
+	font-size: 28px;
+	background-color: #ffffb291;
+}
+#blog-table tr td{
+	padding: 20px;
+	background-color: #ffff004d;
+}
